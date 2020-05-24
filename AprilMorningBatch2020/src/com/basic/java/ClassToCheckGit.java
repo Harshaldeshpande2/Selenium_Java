@@ -6,6 +6,8 @@ public class ClassToCheckGit {
 		
 		
 		System.out.println("Check Commit");
+		System.out.println("second commit");
+		
 
 	}
 
