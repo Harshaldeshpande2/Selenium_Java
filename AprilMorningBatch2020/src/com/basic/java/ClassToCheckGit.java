@@ -5,7 +5,7 @@ public class ClassToCheckGit {
 	public static void main(String[] args) {
 
 		int x = 10;
-		int y = 20;
+		int y = 20; // y variable
 		int b = 100; //new variable in bangalore  
 
 		System.out.println("Check Commit");
