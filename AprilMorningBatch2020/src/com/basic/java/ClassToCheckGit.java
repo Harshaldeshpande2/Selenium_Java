@@ -9,7 +9,7 @@ public class ClassToCheckGit {
 		int b = 100; //new variable in bangalore  
 
 		System.out.println("Check Commit");
-		System.out.println("Second commit");
+		System.out.println("Second Commit");
 
 	}
 
