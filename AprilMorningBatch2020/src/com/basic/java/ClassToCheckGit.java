@@ -2,6 +2,7 @@ package com.basic.java;
 
 public class ClassToCheckGit {
 
+	int  a=10, b =20,c;
 	public static void main(String[] args) {
 
 		int x = 10;
