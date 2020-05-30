@@ -7,10 +7,10 @@ public class Calculations {
 	public Calculations(int a, int b) {
 		// TODO Auto-generated constructor stub
 		this.a=a;
-		this.b=b;   
+		this.b=b;    
 	}
 	
-	public Calculations()
+	public Calculations() 
 	{
 		System.out.println("Default constructor");
 	}
